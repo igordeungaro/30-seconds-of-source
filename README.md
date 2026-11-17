@@ -22,3 +22,12 @@
 * Any other material (including text content, images, the website source code, logos, names and trademarks) are not to be used without the explicit consent of the owner.
 * The website is powered by [Netlify](https://www.netlify.com/), [Astro](https://astro.build/) & [GitHub](https://github.com/).
 * All of the photography is provided by [Unsplash](https://unsplash.com/collections/9387655/30-seconds-of-code-images).
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: Creative Commons Attribution 4.0 International (mantida sem alterações).
+
+**Fonte original:** https://github.com/Chalarangelo/30-seconds-of-code
